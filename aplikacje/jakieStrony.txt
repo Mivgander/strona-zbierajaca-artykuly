@@ -1,0 +1,6 @@
+https://www.wp.pl D:/KodPython/stronaWP.html
+https://sportowefakty.wp.pl D:/KodPython/stronaSportWP.html
+https://www.o2.pl D:/KodPython/stronaO2.html
+https://www.onet.pl D:/KodPython/stronaOnet.html
+https://www.gry-online.pl D:/KodPython/stronaGRY.html
+https://mojeauto.pl D:/KodPython/stronaAuto.html

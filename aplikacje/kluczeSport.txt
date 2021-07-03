@@ -1,0 +1,30 @@
+ sport 
+ Sport 
+ piłka 
+ pilka 
+pilka-nozna
+siatkówka
+siatkowka
+koszykówka
+koszykowka
+Lewandows
+lewandows
+reprezentac
+Reprezentac
+skoki
+Skoki
+ronaldo
+Ronaldo
+Messi
+messi
+Borek
+borek
+Piątek
+piatek
+uefa
+UEFA
+chempions
+Chempions
+ekstraklasa
+Legia
+legia

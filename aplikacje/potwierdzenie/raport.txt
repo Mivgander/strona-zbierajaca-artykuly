@@ -1,0 +1,11 @@
+[12:19:14]    Pobrano strony
+[12:19:14]    Wybrano linki z gry
+[12:19:15]    Wybrano linki z grypt2
+[12:19:15]    Wybrano linki z auto
+[12:19:15]    Wybrano linki z o2
+[12:19:15]    Wybrano linki z sportWP
+[12:19:15]    Wybrano linki z wp
+[12:19:15]    Wybrano linki z onet
+[12:19:15]    Polaczono wszystko razem
+[12:19:15]    Dodano kategorie
+[12:19:17]    Dodano linki do bazy
