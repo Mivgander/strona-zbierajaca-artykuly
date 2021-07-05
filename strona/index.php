@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php
 	function is_session_started()
     {
@@ -19,6 +18,7 @@
 	    echo "Zaczynam sesje!";
 	}
 ?>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
